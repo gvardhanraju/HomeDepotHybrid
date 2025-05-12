@@ -1,0 +1,603 @@
+2025-04-26 18:12:49,333 INFO  utils.LoggerHandler - Clicked on Log In button
+ 2025-04-26 18:12:56,592 INFO  utils.LoggerHandler - Clicked on Sign In button
+ 2025-04-26 18:12:57,867 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:12:59,915 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:13:00,462 INFO  utils.LoggerHandler - Clicked on Email label
+ 2025-04-26 18:13:00,793 INFO  utils.LoggerHandler - Verified Username Status Error Message
+ 2025-04-26 18:13:00,834 INFO  utils.LoggerHandler - Cleared email input field
+ 2025-04-26 18:13:01,129 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:13:01,561 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:13:01,872 INFO  utils.LoggerHandler - Clicked on Continue button
+ 2025-04-26 18:13:11,975 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: password-input-field (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54689/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74ffff296d176f201860d831d581be1e
+ 2025-04-26 18:13:32,093 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#password\-input\-field"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74ffff296d176f201860d831d581be1e, findElement {value=password-input-field, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54689/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74ffff296d176f201860d831d581be1e
+ 2025-04-26 18:13:32,093 INFO  utils.LoggerHandler - Clicked on Password input field
+ 2025-04-26 18:13:42,174 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: password-input-field (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54689/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74ffff296d176f201860d831d581be1e
+ 2025-04-26 18:13:52,240 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#password\-input\-field"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74ffff296d176f201860d831d581be1e, findElement {value=password-input-field, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54689/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74ffff296d176f201860d831d581be1e
+ 2025-04-26 18:13:52,240 INFO  utils.LoggerHandler - Entered data on Password input field
+ 2025-04-26 18:14:02,285 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //button[text() = 'Sign In'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54689/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74ffff296d176f201860d831d581be1e
+ 2025-04-26 18:14:22,331 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//button[text() = 'Sign In']"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74ffff296d176f201860d831d581be1e, findElement {value=//button[text() = 'Sign In'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54689/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74ffff296d176f201860d831d581be1e
+ 2025-04-26 18:14:22,331 INFO  utils.LoggerHandler - Clicked on Sign In button
+ 2025-04-26 18:14:34,594 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:14:38,285 INFO  utils.LoggerHandler - Clicked on Customer Service Center
+ 2025-04-26 18:14:38,336 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:14:42,996 INFO  utils.LoggerHandler - Clicked on Track An Order
+ 2025-04-26 18:14:43,365 INFO  utils.LoggerHandler - Clicked on Order Number Input Field
+ 2025-04-26 18:14:45,959 INFO  utils.LoggerHandler - Entered data on Order Number input field
+ 2025-04-26 18:14:46,553 INFO  utils.LoggerHandler - Clicked on Phone Number input Field
+ 2025-04-26 18:14:46,971 INFO  utils.LoggerHandler - Entered data on Phone Number input field
+ 2025-04-26 18:14:47,434 INFO  utils.LoggerHandler - Clicked on Track Order
+ 2025-04-26 18:14:47,723 INFO  utils.LoggerHandler - Verified We're sorry. We couldn't find that order and phone number combination. Please try re-entering your order number and phone number
+ 2025-04-26 18:14:59,462 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:15:12,001 INFO  utils.LoggerHandler - Clicked on Pay & Manage Your Card
+ 2025-04-26 18:15:13,319 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:15:14,013 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:15:14,649 INFO  utils.LoggerHandler - Clicked on Email label
+ 2025-04-26 18:15:15,049 INFO  utils.LoggerHandler - Verified Username Status Error Message
+ 2025-04-26 18:15:15,439 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:15:15,504 INFO  utils.LoggerHandler - Cleared email input field
+ 2025-04-26 18:15:16,000 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:15:16,331 INFO  utils.LoggerHandler - Clicked on Continue button
+ 2025-04-26 18:15:26,374 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: (//p[@class = 'sui-font-bold sui-text-lg sui-tracking-normal sui-normal-case sui-line-clamp-unset sui-font-normal sui-text-primary sui-text-center'])[1] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63675}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63675/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 24619775c827abc50b3eab6e5fc3929b
+ 2025-04-26 18:15:46,498 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"(//p[@class = 'sui-font-bold sui-text-lg sui-tracking-normal sui-normal-case sui-line-clamp-unset sui-font-normal sui-text-primary sui-text-center'])[1]"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [24619775c827abc50b3eab6e5fc3929b, findElement {value=(//p[@class = 'sui-font-bold sui-text-lg sui-tracking-normal sui-normal-case sui-line-clamp-unset sui-font-normal sui-text-primary sui-text-center'])[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63675}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63675/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 24619775c827abc50b3eab6e5fc3929b
+ 2025-04-26 18:15:46,703 ERROR utils.LoggerHandler - Failed to verify Create a New Account using
+ 2025-04-26 18:15:59,429 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:16:06,518 INFO  utils.LoggerHandler - Clicked on Shop our Brands
+ 2025-04-26 18:16:10,738 INFO  utils.LoggerHandler - Clicked on Anvil Brand
+ 2025-04-26 18:16:10,913 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:13,146 INFO  utils.LoggerHandler - Clicked on Sort By dropdown
+ 2025-04-26 18:16:13,700 INFO  utils.LoggerHandler - Clicked on Price Low to High
+ 2025-04-26 18:16:16,097 INFO  utils.LoggerHandler - Verified Price Low to High Label
+ 2025-04-26 18:16:28,100 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:28,417 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:28,796 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:29,248 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:35,815 INFO  utils.LoggerHandler - Clicked on Order Cancellation
+ 2025-04-26 18:16:35,860 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:35,883 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:35,899 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:35,924 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:37,349 INFO  utils.LoggerHandler - Clicked on Go Button
+ 2025-04-26 18:16:37,741 INFO  utils.LoggerHandler - Verified Required Error Message
+ 2025-04-26 18:16:38,205 INFO  utils.LoggerHandler - Clicked on Footer Email input field
+ 2025-04-26 18:16:38,458 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:16:38,886 INFO  utils.LoggerHandler - Clicked on Go Button
+ 2025-04-26 18:16:39,317 INFO  utils.LoggerHandler - Verified Invalid email address Error Message
+ 2025-04-26 18:16:39,368 INFO  utils.LoggerHandler - Cleared email input field
+ 2025-04-26 18:16:39,626 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:16:40,013 INFO  utils.LoggerHandler - Clicked on Go Button
+ 2025-04-26 18:16:41,305 INFO  utils.LoggerHandler - Verified Unable to signup at this time Error Message
+ 2025-04-26 18:16:53,809 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:53,981 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:54,473 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:16:55,521 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:17:01,696 INFO  utils.LoggerHandler - Clicked on Gift Cards
+ 2025-04-26 18:17:01,735 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:17:01,765 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:17:01,784 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:17:01,802 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:17:01,817 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:17:04,195 ERROR utils.LoggerHandler - element click intercepted: Element is not clickable at point (217, 2245)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, clickElement {id=f.83CD04F71FAB880F8F6A258DDFADC785.d.3DE72907FAE7AFC7C5A2E56D70A4979A.e.96}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (cd755f330c55d13c864f6b8cd3a1b23f)] -> xpath: //a[text() = 'Get Started']]
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:17:04,195 INFO  utils.LoggerHandler - Clicked on Get Started
+ 2025-04-26 18:17:14,217 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: username (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:17:34,322 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=username, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:17:34,322 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:17:44,356 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: username-label (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:18:04,460 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#username\-label"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=username-label, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:18:04,460 INFO  utils.LoggerHandler - Clicked on Email label
+ 2025-04-26 18:18:14,547 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: username (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:18:24,609 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=username, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:18:24,609 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:18:34,633 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //p[contains(text(), 'Please provide your email address')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:18:54,728 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(text(), 'Please provide your email address')]"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=//p[contains(text(), 'Please provide your email address')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:18:54,975 ERROR utils.LoggerHandler - Failed to verify Username Status Error Message
+ 2025-04-26 18:19:04,995 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: username (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:19:25,037 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=username, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:19:25,037 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:19:35,059 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: username (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:19:45,082 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=username, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:19:45,082 INFO  utils.LoggerHandler - Cleared email input field
+ 2025-04-26 18:19:55,130 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: username (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:20:05,177 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=username, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:20:05,177 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:20:15,204 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: sign-in-button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:20:35,314 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#sign\-in\-button"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=sign-in-button, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:20:35,314 INFO  utils.LoggerHandler - Clicked on Continue button
+ 2025-04-26 18:20:45,333 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: (//p[@class = 'sui-font-bold sui-text-lg sui-tracking-normal sui-normal-case sui-line-clamp-unset sui-font-normal sui-text-primary sui-text-center'])[1] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:21:05,399 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"(//p[@class = 'sui-font-bold sui-text-lg sui-tracking-normal sui-normal-case sui-line-clamp-unset sui-font-normal sui-text-primary sui-text-center'])[1]"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd755f330c55d13c864f6b8cd3a1b23f, findElement {value=(//p[@class = 'sui-font-bold sui-text-lg sui-tracking-normal sui-normal-case sui-line-clamp-unset sui-font-normal sui-text-primary sui-text-center'])[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64817/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd755f330c55d13c864f6b8cd3a1b23f
+ 2025-04-26 18:21:05,632 ERROR utils.LoggerHandler - Failed to verify Create a New Account using
+ 2025-04-26 18:21:19,005 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:21:20,588 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:21:24,437 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:21:26,084 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:21:29,987 INFO  utils.LoggerHandler - Clicked on Affiliate Program
+ 2025-04-26 18:21:31,036 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:21:32,267 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:21:42,806 INFO  utils.LoggerHandler - Clicked on Affiliate Program Get Started
+ 2025-04-26 18:21:52,431 INFO  utils.LoggerHandler - Clicked on Sign In button
+ 2025-04-26 18:22:02,474 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //a[text() = 'Forgot Password'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:22:22,546 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//a[text() = 'Forgot Password']"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [109b50ad8e829e00e9a2b42087e9426f, findElement {value=//a[text() = 'Forgot Password'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:22:22,546 INFO  utils.LoggerHandler - Clicked on Forgot Password button
+ 2025-04-26 18:22:32,616 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: j_email (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:22:52,671 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#j_email"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [109b50ad8e829e00e9a2b42087e9426f, findElement {value=j_email, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:22:52,671 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:23:02,717 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class = 'error_container']//div (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:23:22,828 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class = 'error_container']//div"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [109b50ad8e829e00e9a2b42087e9426f, findElement {value=//div[@class = 'error_container']//div, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:23:22,954 ERROR utils.LoggerHandler - Failed to verify Invalid Email Error Message
+ 2025-04-26 18:23:33,045 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: j_email (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:23:53,115 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#j_email"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [109b50ad8e829e00e9a2b42087e9426f, findElement {value=j_email, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:23:53,115 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:24:03,142 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.id: loginButton (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:24:23,184 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#loginButton"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [109b50ad8e829e00e9a2b42087e9426f, findElement {value=loginButton, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:24:23,184 INFO  utils.LoggerHandler - Clicked on Submit button
+ 2025-04-26 18:24:33,248 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.className: forgot_password_success_msg (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:24:53,337 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":".forgot_password_success_msg"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [109b50ad8e829e00e9a2b42087e9426f, findElement {value=forgot_password_success_msg, using=class name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65350}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65350/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 109b50ad8e829e00e9a2b42087e9426f
+ 2025-04-26 18:24:53,453 ERROR utils.LoggerHandler - Failed to verify Email successfull Message
+ 2025-04-26 18:25:07,104 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:09,420 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:12,181 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:13,206 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:17,750 INFO  utils.LoggerHandler - Clicked on Corporate Reponsibility
+ 2025-04-26 18:25:18,765 INFO  utils.LoggerHandler - Hovered over Living Our Values
+ 2025-04-26 18:25:20,309 INFO  utils.LoggerHandler - Clicked on WeAreTHD
+ 2025-04-26 18:25:21,336 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:22,359 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:23,381 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:24,786 INFO  utils.LoggerHandler - Clicked on About Us
+ 2025-04-26 18:25:25,801 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:26,291 INFO  utils.LoggerHandler - Verified Moral Message
+ 2025-04-26 18:25:38,518 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:38,779 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:39,031 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:39,518 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:25:48,614 INFO  utils.LoggerHandler - Clicked on My Preference Center
+ 2025-04-26 18:25:49,668 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:25:49,980 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:25:50,441 INFO  utils.LoggerHandler - Clicked on Phone Number input field
+ 2025-04-26 18:25:50,611 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:25:50,946 INFO  utils.LoggerHandler - Verified Email Error Message
+ 2025-04-26 18:25:51,557 INFO  utils.LoggerHandler - Clicked on Email input field
+ 2025-04-26 18:26:01,613 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1efaacb8091c8689cac9acfeedfebf3c, findElement {value=username, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50282}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50282/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1efaacb8091c8689cac9acfeedfebf3c
+ 2025-04-26 18:26:01,613 INFO  utils.LoggerHandler - Cleared email input field
+ 2025-04-26 18:26:01,863 INFO  utils.LoggerHandler - Entered data on Email input field
+ 2025-04-26 18:26:02,345 INFO  utils.LoggerHandler - Clicked on Search Button
+ 2025-04-26 18:26:02,794 INFO  utils.LoggerHandler - Verified Marketing Emails Label
+ 2025-04-26 18:26:14,211 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:14,336 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:14,629 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:14,890 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:27,846 INFO  utils.LoggerHandler - Clicked on Eco Actions
+ 2025-04-26 18:26:28,739 INFO  utils.LoggerHandler - Clicked on X to close pop up
+ 2025-04-26 18:26:30,186 INFO  utils.LoggerHandler - Hovered over Our Pillars
+ 2025-04-26 18:26:35,115 INFO  utils.LoggerHandler - Clicked on Carbon Emissions
+ 2025-04-26 18:26:35,143 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:35,151 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:35,175 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:35,195 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:26:37,165 ERROR utils.LoggerHandler - element click intercepted: Element is not clickable at point (449, 1895)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5d142e5ff256e17d0d656e82dfa0b618, clickElement {id=f.0E53C8ED166F0022A0E9B9D5F033EACA.d.B0D950C6E16563483AD135FCA0BE2DB9.e.140}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50664/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5d142e5ff256e17d0d656e82dfa0b618)] -> css selector: div[class = 'button-wrap'] > a:nth-child(2)]
+Session ID: 5d142e5ff256e17d0d656e82dfa0b618
+ 2025-04-26 18:26:37,165 INFO  utils.LoggerHandler - Clicked on Carbon Emissions Products
+ 2025-04-26 18:26:47,247 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //h2[contains(text(), 'Product')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50664/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d142e5ff256e17d0d656e82dfa0b618
+ 2025-04-26 18:27:07,373 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(), 'Product')]"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5d142e5ff256e17d0d656e82dfa0b618, findElement {value=//h2[contains(text(), 'Product')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50664/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d142e5ff256e17d0d656e82dfa0b618
+ 2025-04-26 18:27:07,695 ERROR utils.LoggerHandler - Failed to verify Product Index Label
+ 2025-04-26 18:27:20,205 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:27:20,535 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:27:20,773 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:27:21,034 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:27:36,101 ERROR utils.LoggerHandler - timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c97a9b2b5241caa36847c1e1e8a30f8b, clickElement {id=f.055066511709C465A3AF6FB1A2F91DC9.d.1D46AB5E1734A5C6A61A63A31A9D1E7F.e.35}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51094}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51094/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c97a9b2b5241caa36847c1e1e8a30f8b)] -> xpath: //a[text() = 'Eco Actions']]
+Session ID: c97a9b2b5241caa36847c1e1e8a30f8b
+ 2025-04-26 18:27:36,101 INFO  utils.LoggerHandler - Clicked on Eco Actions
+ 2025-04-26 18:27:36,369 INFO  utils.LoggerHandler - Clicked on X to close pop up
+ 2025-04-26 18:27:36,381 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:27:37,628 INFO  utils.LoggerHandler - Clicked on Rebate Center
+ 2025-04-26 18:27:43,726 INFO  utils.LoggerHandler - Clicked on Home button
+ 2025-04-26 18:27:43,840 INFO  utils.LoggerHandler - Navigated to previous page
+ 2025-04-26 18:27:44,983 INFO  utils.LoggerHandler - Verified Rebate Label
+ 2025-04-26 18:28:02,076 INFO  utils.LoggerHandler - Clicked on My Store on the navigation bar
+ 2025-04-26 18:28:02,192 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:02,449 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:13,817 ERROR utils.LoggerHandler - timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0490cb3b9d8dd6fc6d2436044a646cab, clickElement {id=f.385C684004F1E7FB4F4DE6074CDDE58B.d.8F6F45AB082B462397CFF2BFCB8530D9.e.49}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51503}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51503/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0490cb3b9d8dd6fc6d2436044a646cab)] -> xpath: //p[text() = 'Workshops']]
+Session ID: 0490cb3b9d8dd6fc6d2436044a646cab
+ 2025-04-26 18:28:13,817 INFO  utils.LoggerHandler - Clicked on Workshops
+ 2025-04-26 18:28:13,848 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:14,139 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:14,277 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:15,032 INFO  utils.LoggerHandler - Clicked on Learn More
+ 2025-04-26 18:28:20,063 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:28:20,407 INFO  utils.LoggerHandler - Verified Can’t find what you’re looking for? message
+ 2025-04-26 18:28:20,971 INFO  utils.LoggerHandler - Clicked on Privacy Policy
+ 2025-04-26 18:28:38,617 INFO  utils.LoggerHandler - Clicked on My Store on the navigation bar
+ 2025-04-26 18:28:43,044 INFO  utils.LoggerHandler - Clicked on Curbside
+ 2025-04-26 18:28:43,113 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:43,130 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:47,221 INFO  utils.LoggerHandler - Clicked on Learn More
+ 2025-04-26 18:28:47,246 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:47,256 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:47,346 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:47,361 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:47,380 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:47,394 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:28:57,462 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //h5[text() = 'Rentals'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59054}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59054/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb8f59d4331d23466f863e31a4b53d89
+ 2025-04-26 18:29:17,591 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//h5[text() = 'Rentals']"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eb8f59d4331d23466f863e31a4b53d89, findElement {value=//h5[text() = 'Rentals'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59054}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59054/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb8f59d4331d23466f863e31a4b53d89
+ 2025-04-26 18:29:17,591 INFO  utils.LoggerHandler - Clicked on Rentals
+ 2025-04-26 18:29:17,604 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:29:17,644 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:29:27,693 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //a[text() = 'Rent Now'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59054}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59054/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb8f59d4331d23466f863e31a4b53d89
+ 2025-04-26 18:29:37,943 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//a[text() = 'Rent Now']"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eb8f59d4331d23466f863e31a4b53d89, findElement {value=//a[text() = 'Rent Now'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59054}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59054/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb8f59d4331d23466f863e31a4b53d89
+ 2025-04-26 18:29:37,943 INFO  utils.LoggerHandler - Clicked on Rent Now Button
+ 2025-04-26 18:29:50,340 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:29:57,543 INFO  utils.LoggerHandler - Clicked on Husky Brand
+ 2025-04-26 18:30:02,080 INFO  utils.LoggerHandler - Clicked on Tool Chest
+ 2025-04-26 18:30:02,128 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:30:04,703 INFO  utils.LoggerHandler - Clicked on Shop Now
+ 2025-04-26 18:30:05,591 INFO  utils.LoggerHandler - Clicked on Grade Dropdown
+ 2025-04-26 18:30:06,460 INFO  utils.LoggerHandler - Clicked on Heavy Duty
+ 2025-04-26 18:30:07,617 INFO  utils.LoggerHandler - Clicked on Apply Now
+ 2025-04-26 18:30:09,672 INFO  utils.LoggerHandler - Verified HUSKY TOOL CHESTS header label
+ 2025-04-26 18:30:21,472 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:30:30,180 INFO  utils.LoggerHandler - Clicked on Husky Brand
+ 2025-04-26 18:30:35,943 INFO  utils.LoggerHandler - Clicked on Mobile Work Benches
+ 2025-04-26 18:30:41,246 INFO  utils.LoggerHandler - Clicked on Black Color Filter
+ 2025-04-26 18:30:42,860 INFO  utils.LoggerHandler - Verified BLACK HUSKY MOBILE WORKBENCHES header label
+ 2025-04-26 18:30:54,920 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:31:03,243 INFO  utils.LoggerHandler - Clicked on Husky Brand
+ 2025-04-26 18:31:07,528 INFO  utils.LoggerHandler - Clicked on Rolling Tool Boxes
+ 2025-04-26 18:31:07,608 INFO  utils.LoggerHandler - Scroll down the page
+ 2025-04-26 18:31:09,165 ERROR utils.LoggerHandler - element click intercepted: Element is not clickable at point (212, 573)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [be433ae9a6bd102e133c2064b688f902, clickElement {id=f.0496BB10643A48F76A54B46441A48EA1.d.C1A64B86C97002AF6880A14A64B0199C.e.154}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60365/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (be433ae9a6bd102e133c2064b688f902)] -> xpath: //p[text() = 'Brand']]
+Session ID: be433ae9a6bd102e133c2064b688f902
+ 2025-04-26 18:31:09,165 INFO  utils.LoggerHandler - Clicked on Brand Category
+ 2025-04-26 18:31:19,236 ERROR utils.LoggerHandler - Expected condition failed: waiting for visibility of element located by By.xpath: //p[text() = 'RIDGID'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60365/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be433ae9a6bd102e133c2064b688f902
+ 2025-04-26 18:31:29,280 ERROR utils.LoggerHandler - no such element: Unable to locate element: {"method":"xpath","selector":"//p[text() = 'RIDGID']"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [be433ae9a6bd102e133c2064b688f902, findElement {value=//p[text() = 'RIDGID'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\10831500\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60365/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be433ae9a6bd102e133c2064b688f902
+ 2025-04-26 18:31:29,280 INFO  utils.LoggerHandler - Clicked on Ridgid Brand
+ 2025-04-26 18:31:29,298 INFO  utils.LoggerHandler - Verified Rolling Tool Box page title
+ 2025-04-26 18:31:40,711 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-26 18:31:47,634 INFO  utils.LoggerHandler - Clicked on Husky Brand
+ 2025-04-26 18:31:52,062 INFO  utils.LoggerHandler - Clicked on Truck Tool Boxes
+ 2025-04-26 18:31:56,018 INFO  utils.LoggerHandler - Clicked on Vehicle Specific
+ 2025-04-26 18:31:58,009 INFO  utils.LoggerHandler - Clicked on Finish/Color
+ 2025-04-26 18:31:58,705 INFO  utils.LoggerHandler - Clicked on Matte Black color
+ 2025-04-26 18:31:59,209 INFO  utils.LoggerHandler - Clicked on Apply
+ 2025-04-26 18:32:00,665 INFO  utils.LoggerHandler - Verified Matte Black Husky Truck Tool Boxes header label
+ 

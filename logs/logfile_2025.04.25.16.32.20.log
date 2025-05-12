@@ -1,0 +1,9 @@
+2025-04-25 16:32:20,648 INFO  utils.LoggerHandler - Scrolled to the footer
+ 2025-04-25 16:32:38,254 INFO  utils.LoggerHandler - Clicked on Husky Brand
+ 2025-04-25 16:32:43,569 INFO  utils.LoggerHandler - Clicked on Truck Tool Boxes
+ 2025-04-25 16:32:49,024 INFO  utils.LoggerHandler - Clicked on Vehicle Specific
+ 2025-04-25 16:32:51,701 INFO  utils.LoggerHandler - Clicked on Finish/Color
+ 2025-04-25 16:32:52,512 INFO  utils.LoggerHandler - Clicked on Matte Black color
+ 2025-04-25 16:32:53,650 INFO  utils.LoggerHandler - Clicked on Apply
+ 2025-04-25 16:32:55,942 INFO  utils.LoggerHandler - Verified Matte Black Husky Truck Tool Boxes header label
+ 
